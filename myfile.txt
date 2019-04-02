@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is my first file.
 Changes to our file, in our own repo
 Changes made by Brian, in clone.
 A change
+=======
+test file
+>>>>>>> 67e6174a22e654cab99355a499c30994e605f853
